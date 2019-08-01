@@ -1,2 +1,2 @@
 # site.ivanaszko.github.com
-# ivanaszko.github.com
+# ivanaszko.github.io
